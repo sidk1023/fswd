@@ -1,0 +1,24 @@
+{
+  "name": "fswd",
+  "version": "1.0.0",
+  "description": "This is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidk1023/fswd.git"
+  },
+  "author": "Siddharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidk1023/fswd/issues"
+  },
+  "homepage": "https://github.com/sidk1023/fswd#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
